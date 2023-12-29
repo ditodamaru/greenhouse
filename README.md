@@ -98,7 +98,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    mkdir env_pc_py38
    ```
-5.activate miniforge conda environment
+5. Activate miniforge conda environment
    ```sh
    source ~/mambaforge/bin/activate
    ```
